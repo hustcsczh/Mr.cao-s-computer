@@ -13,9 +13,10 @@
 ## 部分说明
 
 1. 处理器 `R` 开头的表示 AMD 公司的处理器 以 H 结尾的型号表示标压 HS 结尾表示超频（理解性能为更好）
-2. 电脑排名不分先后 无任何商业推广
-3. 个人推荐难免有所欠缺，还请保存理性，多加斟酌
-4. [个人主页](https://github.com/hustcsczh)  [更多内容](https://github.com/hustcsczh/wonderful_apps_for_windows.git)
+2. 处理器 `i` 开头的表示 英特尔 公司的处理器
+3. 电脑排名不分先后 无任何商业推广
+4. 个人推荐难免有所欠缺，还请保存理性，多加斟酌
+5. [个人主页](https://github.com/hustcsczh)  [更多内容](https://github.com/hustcsczh/wonderful_apps_for_windows.git)
 
 ## 1.redmi book 16
 
