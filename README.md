@@ -16,6 +16,7 @@
 2. 电脑排名不分先后 无任何商业推广
 3. 个人推荐难免有所欠缺，还请保存理性，多加斟酌
 4. [个人主页](https://github.com/hustcsczh)
+5. [更多内容](https://github.com/hustcsczh/wonderful_apps_for_windows.git)
 
 ## 1.redmi book 16
 
